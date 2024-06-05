@@ -30,3 +30,5 @@ Dieser wird dann wie im Bild oben umgesetzt und enthält diese Angaben. Die Para
 Der fertige Flow steht auch in den Samples zum Download zur Verfügung [WetterDemo.zip](/samples/WetterDemo.zip).
 
 Im importierten Flow müssen die Einträge der Parameter so wie die Angaben zum Sharepoint für 'Datei erstellen' angepasst werden.
+
+Der Import des Flow wird im Tutorial [Import und Export von Flows](/tutorials/importexportflow.md) erläutert.
